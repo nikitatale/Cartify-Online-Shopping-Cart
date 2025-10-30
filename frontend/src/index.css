@@ -1,0 +1,11 @@
+body{
+  background-color: #d6d5d5;
+}
+
+
+/* hr style for active underline */
+
+a.active hr {
+  display: block;
+}
+
